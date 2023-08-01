@@ -1,3 +1,2 @@
-pytest
-selene==2.0.0rc3
-selenium
+pytest==7.4.0
+selene==2.0.0rc3.post2
